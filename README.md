@@ -4,8 +4,8 @@
 - ✨ I am Python developer 
 - 👯 I’m looking to collaborate on projects and I open source contributor
 - 📫 How to reach me: 
-      Telegram: @AndrewKirov_S
-      My Email: Andrewkirov@me.com
+      Telegram: @AndrewKirov_S, 
+      Email: Andrewkirov@me.com
 
 <!--
 **FluckyGo/FluckyGO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
