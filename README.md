@@ -4,7 +4,7 @@
 - ✨ I am Python developer 
 - 👯 I’m looking to collaborate on projects and I open source contributor
 - 📫 How to reach me: 
-      My telegram: @AndrewKirov_S
+      Telegram: @AndrewKirov_S
       My Email: Andrewkirov@me.com
 
 <!--
