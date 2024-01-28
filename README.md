@@ -1,6 +1,8 @@
-### Hi there 👋
-
-I’m Andrew
+###  👋 Hi there, I’m Andrew
+ 
+- 👀 I’m love programming! 
+- 🌱 I am Python developer 
+- 💞️ I’m looking to collaborate on projects and I open source contributor  
 
 <!--
 **FluckyGo/FluckyGO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
